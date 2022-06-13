@@ -3,7 +3,7 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 .vscode
-venvProject7_magnit
+venvProject8_health
 # User-specific files
 *.rsuser
 *.suo
